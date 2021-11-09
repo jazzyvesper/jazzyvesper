@@ -3,7 +3,7 @@
 #### My skill set:
 
 <p>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
+<<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=node&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-f5f5f5?style=for-the-badge&logo=html5&logoColor=E34F26" />
