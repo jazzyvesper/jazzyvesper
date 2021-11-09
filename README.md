@@ -29,4 +29,3 @@
 
 <a href="https://t.me/jazzyvesper" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jazzyvesper/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="25" width="25" /></a>&nbsp;&nbsp;
-
