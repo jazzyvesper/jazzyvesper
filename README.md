@@ -27,7 +27,7 @@
 
 #### Some code stats from November 09:
 
-[![wakatime](https://wakatime.com/badge/user/bdc4a5db-f675-48fa-90d7-42c5b10ec837.svg)](https://wakatime.com/@bdc4a5db-f675-48fa-90d7-42c5b10ec837)
+[![wakatime](https://wakatime.com/badge/user/ded6d93f-2314-430e-81f0-1be2274d22aa.svg)](https://wakatime.com/@bdc4a5db-f675-48fa-90d7-42c5b10ec837)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jazzyvesper&layout=compact)
 
